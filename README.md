@@ -1,5 +1,5 @@
 # qgis-js Projects
-Demo and Test Projects for [qgis-js](https://github.com/wonder-sk/qgis-js), will be fetched from the [qgis-js project website](https://qgis.github.io/qgis-js)
+Demo and Test Projects for [qgis-js](https://github.com/qgis/qgis-js), will be fetched from the [qgis-js project website](https://qgis.github.io/qgis-js)
 
 ## Contents
 
