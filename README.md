@@ -5,6 +5,7 @@ Demo and Test Projects for [qgis-js](https://github.com/qgis/qgis-js), will be f
 
 - [`./demo`](./demo): Demo projects (external)
 - [`./test`](./test): Test projects (internal)
+- [`./performance`](./performance): Test projects (internal)
 
 ## Licence
 
