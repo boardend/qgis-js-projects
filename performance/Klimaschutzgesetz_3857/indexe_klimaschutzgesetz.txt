@@ -1,0 +1,4 @@
+CREATE INDEX in_klimaschutzgesetz_gemeinden_25k_ja_prozent ON klimaschutzgesetz_gemeinden_25k(ja_prozent);
+CREATE INDEX in_klimaschutzgesetz_gemeinden_500k_ja_prozent ON klimaschutzgesetz_gemeinden_500k(ja_prozent);
+CREATE INDEX in_klimaschutzgesetz_kanton_2023_25k_ja_prozent ON klimaschutzgesetz_kanton_2023_25k(ja_prozent);
+CREATE INDEX in_klimaschutzgesetz_kanton_2023_500k_ja_prozent ON klimaschutzgesetz_kanton_2023_500k(ja_prozent);
